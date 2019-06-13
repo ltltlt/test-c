@@ -1,3 +1,6 @@
-!*.c
-!.gitignore
 *
+
+!*.c
+!*.go
+!.gitignore
+!*/
